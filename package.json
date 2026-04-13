@@ -42,7 +42,7 @@
     "react-dom": "^19.0.0",
     "react-markdown": "^10.1.0",
     "remark-gfm": "^4.0.1",
-    "simple-git": "^3.27.0",
+    "simple-git": "^3.32.3",
     "slate": "^0.112.0",
     "slate-history": "^0.110.3",
     "slate-react": "^0.112.1",
